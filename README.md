@@ -11,7 +11,7 @@ LEDの光を受け取ってブザーを鳴らしたい。
 # 手順
 まずは、回路図を作成する。回路図はDigiKeyが提供している[Scheme-it](https://www.digikey.jp/en/schemeit/project)を用いて作成する。
 ## LED送受信回路
-![代替テキスト]()
+![代替テキスト](figure\circuit01.png)
 
 ## 7セグメントLED回路
 | TH | TH |
